@@ -1,0 +1,6 @@
+require 'grape'
+require 'grape-entity'
+require_relative 'db/database'
+require_relative 'app/models/hotel'
+require_relative 'app/entities/hotel'
+require_relative 'app/api/application'
