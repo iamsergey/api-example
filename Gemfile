@@ -7,6 +7,7 @@ gem 'rack'
 gem 'thin'
 gem 'sequel'
 gem 'pg'
+gem 'rake'
 
 group :test do
   gem 'sqlite3'
